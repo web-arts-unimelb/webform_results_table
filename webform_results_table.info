@@ -1,0 +1,6 @@
+name = Webform results table
+description = Reduce the number of columns in table, while displaying number of submissions
+core = 7.x
+
+package = Webform
+dependencies[] = webform
